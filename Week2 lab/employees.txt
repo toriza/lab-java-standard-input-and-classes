@@ -1,0 +1,10 @@
+1 Michael Robinson robinson@smth.com 31 30000.0
+2 Francis Smith smith@smth.com 45 50000.0
+3 Amanda Minter minter@smth.com 23 19000.0
+4 Elaine Porter porter@smth.com 35 46000.0
+5 Leroy Bowen bowen@smth.com 65 55000.0
+6 Landen Hurley hurley@smth.com 25 50000.0
+7 Marisol Wu wu@smth.com 37 46000.0
+8 Kyng Barrett barrett@smth.com 24 35000.0 Needs attention, this intern has a higher salary than expected.
+9 Oaklyn Ramirez ramirez@smth.com 20 18000.0
+10 Jessica Armstrong armstrong@smth.com 41 50000.0
